@@ -3,8 +3,8 @@
 **Dati di input**:
 ```json
 {
-    "signal_code": "", // string
-    "product_name": "", // string
+    "signal_code": string,
+    "product_name": string
 }
 ```
 - `signal_code` codice restituito dal Nao Mark
