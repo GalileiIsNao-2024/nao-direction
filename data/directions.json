@@ -1,0 +1,7 @@
+{
+    "cod1": {
+        "left": ["obj 1", "obj 2"],
+        "front": ["obj 3", "obj 4"],
+        "right": ["obj 5", "obj 6"]
+    }
+}
