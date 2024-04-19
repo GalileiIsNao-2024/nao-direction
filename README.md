@@ -1,4 +1,4 @@
-# nao-direction
+# NAO directions
 
 **Dati di input**:
 ```json
